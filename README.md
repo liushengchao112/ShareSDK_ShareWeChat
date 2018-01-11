@@ -1,0 +1,2 @@
+# ShareSDK_ShareWeChat
+ShareSDK在微信平台的分享功能
